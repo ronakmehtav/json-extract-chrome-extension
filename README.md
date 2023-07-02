@@ -12,5 +12,5 @@ Json:-
 ```
 this is sample template html. I want to extract the html out of this. Format it. Copy it into clipboard.
 ## Links
-- [Json Page][https://jsonplaceholder.typicode.com/todos/1]
-- [Api Documentation][https://developer.chrome.com/docs/extensions/reference/tabs]
+- [Json Page](https://jsonplaceholder.typicode.com/todos/1)
+- [Api Documentation](https://developer.chrome.com/docs/extensions/reference/tabs)
